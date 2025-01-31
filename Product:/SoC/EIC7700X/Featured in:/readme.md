@@ -1,0 +1,2 @@
+- https://milkv.io/megrez
+- https://www.sifive.com/boards/hifive-premier-p550
